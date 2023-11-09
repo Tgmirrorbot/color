@@ -23,7 +23,7 @@ const ColorPicker = () => {
   return (
     <div className="p-4 bg-white rounded shadow-lg">
       <h2 className="mb-2 text-lg font-bold text-gray-700">Color Picker</h2>
-      <input className="w-full p-2 border rounded" type="color" />
+      <input className="w-full p-2 border rounded" style={{backgroundColor: 'hsl(0, 0%, 95%)'}} type="color" />
     </div>
   );
 };
