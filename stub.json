@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"make colour code showing web app that in that \n\nthe preview of selected colour in square \nafter that colour picker tool \n\nin below the all format colour code that selected  color:\nrgba\nrgb\nhsl\nhsla\nhex code\n","md5":"ad82866394ef37a9630b575c9465f339"}]}
